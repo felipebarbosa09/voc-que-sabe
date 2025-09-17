@@ -1,0 +1,11 @@
+:root{
+    /* CSS HEX */
+--branco: #f1faeeff;
+--azulbebe: #a8dadcff;
+--azulmar: #457b9dff;
+--azulforte: #1d3557ff;
+}
+
+body{
+    background: var(--branco);
+}
